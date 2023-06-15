@@ -23,7 +23,7 @@ header{
 header >h1{
     margin: 5px;
     font-size: 4rem;
-    /* color: rgb(117, 117, 117); */
+    display: inline;
     text-shadow: 0 .5rem 1rem rgb(117, 117, 117);
 }
 header >h1:hover{
@@ -70,7 +70,7 @@ header >h1:hover{
 }
 
 .mheading {
-    font-size: 45px;
+    display: inline;
     text-shadow: 0 .5rem 1rem rgb(117, 117, 117);
     margin: 10px;
     padding: 10px;
